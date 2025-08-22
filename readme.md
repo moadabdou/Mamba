@@ -55,8 +55,8 @@ The script will:
 Once running, you can talk with the model:
 
 ```
-Guy: Hey, how was your day?
-Waifu: Calm, actually. I spent a few hours in the garden...
+User: Wow, straight to the throat.
+Assistant: I’m efficient like that.
 ```
 
 Type `quit` or `exit` to end the session.
